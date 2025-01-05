@@ -289,3 +289,13 @@ section:nth-child(even) {
     opacity: 0.8;
   color: white;
 }
+p {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px; 
+    max-width: 80%;
+    height: 100vh;
+    padding-top: 600px;
+}
+           
